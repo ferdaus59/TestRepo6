@@ -8,6 +8,8 @@ public class FifthJava {
 	System.out.println("Hello ETSU");
 	System.out.println("Hello UT");
 	System.out.println("Hello People");
+	System.out.println("Hello Ladies");
+	
 	
 	
 	}
